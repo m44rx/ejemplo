@@ -29,6 +29,19 @@ public class Employee {
 	)
 	List<Customer> customers = new ArrayList<>();
 
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	//******************************************
 	public Integer getIdEmployee() {
 		return idEmployee;
 	}
